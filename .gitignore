@@ -1,0 +1,18 @@
+# Ignore build files
+/build
+/dist
+
+# Ignore dependencies
+/node_modules/
+
+# Ignore virtual environments (for Python projects)
+.venv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (sensitive data)
+.env
+config.json
