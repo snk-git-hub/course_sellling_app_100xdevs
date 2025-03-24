@@ -1,0 +1,24 @@
+{
+  "name": "course_selling_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snk-git-hub/course_sellling_app_100xdevs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snk-git-hub/course_sellling_app_100xdevs/issues"
+  },
+  "homepage": "https://github.com/snk-git-hub/course_sellling_app_100xdevs#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.2"
+  }
+}
